@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/DeadlyObstaclesStaging.unity
+- path: Assets/Scenes/AlienCStaging.unity
   isLoaded: 1
   isActive: 1
